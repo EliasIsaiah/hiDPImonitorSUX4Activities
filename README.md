@@ -5,3 +5,5 @@
 * AMD Threadripper CPUs
 * Kittens
 * Puppies
+* another thing I like
+* another another thing I like
