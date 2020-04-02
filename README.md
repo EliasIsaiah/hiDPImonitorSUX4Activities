@@ -4,3 +4,4 @@
 * NVDIA Graphics Cards
 * AMD Threadripper CPUs
 * Kittens
+* Puppies
